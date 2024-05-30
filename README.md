@@ -1,4 +1,4 @@
-# Royal Celebration Palace Using Html, CSS, JavaScript, BootStrap, React.
+# Royal Celebration Palace Using Html, CSS, JavaScript, BootStrap.
 
 
 Royal Celebration Palace
