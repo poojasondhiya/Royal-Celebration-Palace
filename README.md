@@ -18,3 +18,4 @@ Elegant UI/UX: Combines CSS and Bootstrap to deliver a clean, modern, and intuit
 Event Booking Form: Features a user-friendly booking form with validation and real-time feedback.
 Gallery: Showcases high-quality images of the venue and past events through a responsive and interactive gallery component.
 Testimonials: Includes a section for client testimonials to enhance credibility and trust.
+responsive site.
